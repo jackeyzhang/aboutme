@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.sickle.aboutme.cache;
+package com.sickle.jedis;
 
 
 /**
@@ -11,4 +11,5 @@ package com.sickle.aboutme.cache;
 public interface JedisAPI
 {
 
+	
 }
